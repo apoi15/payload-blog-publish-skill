@@ -9,6 +9,10 @@ It was extracted from a production B2B site that publishes every article in
 three languages. Everything company-specific has been removed; the editorial
 files ship as templates you fill in.
 
+**Live example:** [AI Tech Pack Looks Perfect. But at What Cost?](https://www.hlnapparel.com/blog/ai-tech-pack)
+was researched, written and published with this workflow in three languages from one set of drafts
+([Español](https://www.hlnapparel.com/es/blog/tech-pack-con-ia) · [Français](https://www.hlnapparel.com/fr/blog/tech-pack-ia)).
+
 [中文说明](README.zh-CN.md)
 
 ```mermaid

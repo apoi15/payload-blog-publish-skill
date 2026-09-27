@@ -4,6 +4,8 @@
 
 它来自一个每篇文章都发三种语言的线上 B2B 网站，公司相关内容已全部去掉，编辑资料只保留模板，需要你自己填。
 
+**线上示例：** [AI Tech Pack Looks Perfect. But at What Cost?](https://www.hlnapparel.com/blog/ai-tech-pack) 就是用这套流程调研、撰写并一次发布三语的（[西语](https://www.hlnapparel.com/es/blog/tech-pack-con-ia) · [法语](https://www.hlnapparel.com/fr/blog/tech-pack-ia)）。
+
 详细原理见 [README.md](README.md)，这里是要点。
 
 ## 核心原理
